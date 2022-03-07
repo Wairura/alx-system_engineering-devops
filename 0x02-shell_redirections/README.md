@@ -1,0 +1,1 @@
+What the commands head, tail, find, wc, sort, uniq, grep, tr do,to redirect standard output to a file, to get standard input from a file instead of the keyboard, to send the output from one program to the input of another program, to combine commands and filters with redirections
